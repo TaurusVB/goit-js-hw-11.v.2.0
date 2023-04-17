@@ -49,7 +49,7 @@ Pages, в ветку `gh-pages`, каждый раз когда обновляе
 `your_username` и `your_repo_name` на свои, и отправить изменения на GitHub.
 
 ```json
-"homepage": "https://your_username.github.io/your_repo_name/",
+"homepage": "https://TaurusVB.github.io/your_repo_name/",
 "scripts": {
   "build": "parcel build src/*.html --public-url /your_repo_name/"
 },
